@@ -12,7 +12,7 @@
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
 
-## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+## Hello, Im Mathiscool <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Mathiscool = {
