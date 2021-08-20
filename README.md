@@ -10,15 +10,15 @@
 -->
     
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Sudhan. I use typescript to code and there is nothing so special about me...</p>
+<p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
 
 ## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 ```js
-const Sudhan = {
-    Age: 14,
-    Description: "Hello, My name is Sudhan. An Typescript, Javascript Developer",
-    FavouriteLanguage: "Javascript/Typescript",
+const Mathiscool = {
+    Age: ??,
+    Description: "Hello, My name is Mathiscool. An Typescript, Javascript Developer",
+    FavouriteLanguage: "Javascript/Html/Python",
     OpenedIssues: 61,
     OpenedPullRequests: 52,
     TotalCommits: 4567,
