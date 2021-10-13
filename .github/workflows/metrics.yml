@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
+          config_timezone: United States
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_secrets: yes
