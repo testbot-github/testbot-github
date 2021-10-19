@@ -54,8 +54,4 @@ jobs:
           plugin_people_types: followers
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
           repositories_forks: yes
