@@ -3190,7 +3190,7 @@ Try emptying the giveaways.json and add this  in that file -
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Nov 2021, 10:21:17  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 19 Nov 2021, 11:16:08  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
