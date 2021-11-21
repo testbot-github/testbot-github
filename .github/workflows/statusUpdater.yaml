@@ -1,4 +1,4 @@
-name: ReadMe Stats Updater
+name: ReadMe Stats Updater 
 
 on:
   workflow_run:
