@@ -27,7 +27,7 @@ const Mathiscool = {
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Sun Apr 18 2021 05:03:13 GMT+0000 (Coordinated Universal Time)",
-    Stars: 9,
+    Stars: 10,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
 }; //I'm a Epic Object. UwU
 ```
@@ -41,7 +41,7 @@ const Mathiscool = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-9-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
@@ -52,5 +52,5 @@ Some of my epic coding stats here that i was doing this week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight">
 </details>
-<!-- Last updated on Thu Nov 25 2021 05:07:26 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 25th November 2021 using magic</i> ✨
+<!-- Last updated on Fri Nov 26 2021 05:07:22 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 26th November 2021 using magic</i> ✨
