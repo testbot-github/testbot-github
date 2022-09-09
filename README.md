@@ -1,5 +1,5 @@
 <h2 align="left">💡 Discord -</h2>
-<!-- Fun fact - your sus 😳 -->
+<!-- Fun fact - your sus ඞ -->
 
 ![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 <hr>
