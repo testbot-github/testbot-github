@@ -28,6 +28,7 @@ jobs:
           user: testbot-github
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: United States
           plugin_achievements: yes
           plugin_achievements_display: detailed
