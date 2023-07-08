@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=22F72E&center=true&vCenter=true&width=435&lines=Welcome+to+MathisCool's+Profile)](https://git.io/typing-svg)
 <h2 align="left">💡 Discord -</h2>
 <!-- Fun fact - your sus ඞ -->
 
